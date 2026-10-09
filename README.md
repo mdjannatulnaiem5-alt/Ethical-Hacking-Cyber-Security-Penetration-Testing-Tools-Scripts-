@@ -1,14 +1,16 @@
 # Ethical-Hacking-Cyber-Security-Penetration-Testing-Tools-Scripts-
 Ethical Hacking &amp; Cyber Security: (Penetration Testing, Tools, Scripts)
 
-Fundamental 
-Networking 
-Window 
-Lniax
-Programming 
+##Fundamental 
+##Networking 
+lan wan man 
+##Window 
+##Lniax
+##Programming 
 Web technology 
-Cyber security fundamental
-Ethical hacking methodology 
+##Cyber security fundamental
+CIA triad 
+##Ethical hacking methodology 
 Reconnasian
 Scanning enermouration
 Security tool
