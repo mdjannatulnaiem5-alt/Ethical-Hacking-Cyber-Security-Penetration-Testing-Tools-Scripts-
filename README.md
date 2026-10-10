@@ -4,7 +4,13 @@ Ethical Hacking &amp; Cyber Security: (Penetration Testing, Tools, Scripts)
 ##Fundamental 
 ##Networking 
 lan wan man 
+dhp 
 ##Window 
+CMD 
+powersell
+window user 
+NTFS 
+window architecture 
 ##Lniax
 ##Programming 
 Web technology 
